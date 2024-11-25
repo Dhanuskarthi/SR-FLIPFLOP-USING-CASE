@@ -34,7 +34,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+/* write all the steps invloved */                                           
 *1*.Open quartus II and create New project wizard.                                                   
 *2*. Write the program in Verilog HDL file and run the program.                         
 *3*. Download the RTL viewer.                              
