@@ -35,9 +35,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **Procedure**
 
 /* write all the steps invloved */
-*1*.Open quartus II and create New project wizard.
-*2*. Write the program in Verilog HDL file and run the program.
-*3*. Download the RTL viewer.
+*1*.Open quartus II and create New project wizard.                                                   
+*2*. Write the program in Verilog HDL file and run the program.                         
+*3*. Download the RTL viewer.                              
 *4*. Now open university program VWF and download waveform after the execution.
 
 **PROGRAM**
